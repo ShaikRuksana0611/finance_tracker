@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2025-02-04",
+        "amount": 100.0,
+        "category": "Salary",
+        "type": "income"
+    },
+    {
+        "date": "2025-02-04",
+        "amount": 50.0,
+        "category": "Food",
+        "type": "expense"
+    }
+]
